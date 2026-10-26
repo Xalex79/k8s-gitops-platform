@@ -1,0 +1,15 @@
+# Go
+bin/
+*.test
+coverage.out
+
+# Local tooling
+.env
+kubeconfig*
+*.kubeconfig
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
